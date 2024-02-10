@@ -1,4 +1,3 @@
-print("hello world")
 
 playing = input("Do you wanna play? ")
 
